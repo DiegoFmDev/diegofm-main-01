@@ -1,0 +1,40 @@
+{
+  "title": "| Desarrollador Frontend",
+  
+  "loading": "Cargando...",
+  "online": {
+    "online": "En línea",
+    "offline": "Desconectado",
+    "dnd": "Ocupado",
+    "since": "Desde"
+  },
+  "birthday": {
+    "age": "edad",
+    "years-old": "años",
+    "time": "dias para mi cumpleaños"
+  },
+  "github": "Mi perfil de Github.",
+  "projectsandtest": {
+    "title": "Proyectos",
+    "description": "Aquí subiré algunos de mis proyectos, pruebas o experimentos."
+  },
+  "projects": {
+    "title": "Proyectos",
+    "all": "Todos",
+    "personal": "Personales",
+    "practice": "Prácticas",
+    "experiments": "Experimentos",
+    "recommended": "Recomendados",
+    "courses": "Cursos"
+  },
+  "certificates": {
+    "enlvl": "Nivel de inglés"    
+  },
+  "functions": {
+    "changeLanguage": "Cambiar idioma",
+    "changeTheme": "Cambiar tema",
+    "goToProjects": "Ir a los proyectos",
+    "noEnergy": "Dame energía"
+  },
+  "exp": "años de experiencia"
+}
